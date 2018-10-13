@@ -44,7 +44,8 @@ https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-
 http://ww1.microchip.com/downloads/en/DeviceDoc/22003b.pdf
 
 The selected sensors are proposed by Joachim Reuder, Björn Pehrson, Robert 
-Olsson and WIMEA team. Thanks to N.N for testing the pressure/BME280 sensor.
+Olsson and WIMEA team. Thanks to Andrew Seidl for evaluation of the BME280 
+pressure sensor.
 
 The PCB
 --------
