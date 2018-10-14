@@ -7,7 +7,7 @@ News i V3
 * Third generation/revision of project daughterboard
 * Using one channel ADC MCP3421 for more compact design
 * Side-by-side BME280 for evaluation. Uses I2C address 0x76
-* T/RH chips at edge of chip for better air-flow 
+* T/RH chips at edge of board for better air-flow 
 * Thermal barrier for T/RH to minimize heating from other components.
 * MS5611 for Pressure is removed and replaced by BME280 on sensornode.
 
